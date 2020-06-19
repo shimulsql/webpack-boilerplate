@@ -1,0 +1,33 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "a webpack(4.x) boilerplate with babel,scss,bootstrap,font-awesme(Pro~5.13) and much more",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimulsql/webpack-boilerplate.git"
+  },
+  "keywords": [
+    "webpack",
+    "boilerplate",
+    "scss",
+    "js",
+    "bootstrap",
+    "fontawesome",
+    "pro",
+    "babel"
+  ],
+  "author": "Mostafizur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimulsql/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/shimulsql/webpack-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
